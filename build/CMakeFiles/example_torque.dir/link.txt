@@ -1,0 +1,1 @@
+/usr/bin/g++ -O3 -rdynamic CMakeFiles/example_torque.dir/examples/example_torque.cpp.o -o example_torque   -L/home/a1/unitree_legged_sdk-3.3.2/lib  -Wl,-rpath,/home/a1/unitree_legged_sdk-3.3.2/lib -pthread -lunitree_legged_sdk_amd64 -llcm 

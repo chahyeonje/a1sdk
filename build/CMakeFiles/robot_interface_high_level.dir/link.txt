@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -O3 -flto -shared  -o robot_interface_high_level.cpython-36m-x86_64-linux-gnu.so CMakeFiles/robot_interface_high_level.dir/src/python_interface_high_cmd.cpp.o   -L/home/a1/unitree_legged_sdk-3.3.2/lib  -Wl,-rpath,/home/a1/unitree_legged_sdk-3.3.2/lib -pthread -lunitree_legged_sdk_amd64 -llcm 

@@ -1,0 +1,186 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.3"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				},
+				{
+					"build" : "pybind11",
+					"jsonFile" : "directory-pybind11-b6193beaf7d644e9e508.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "pybind11"
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "unitree_legged_sdk",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "pybind11",
+					"parentIndex" : 0
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "example_dance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_dance-d5e0a2e182a746868d27.json",
+					"name" : "example_dance",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_position::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_position-1277546d3ff2b76aee49.json",
+					"name" : "example_position",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_torque::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_torque-840e3fba3276247fe7c7.json",
+					"name" : "example_torque",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_velocity::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_velocity-5db200e081ba3e15da80.json",
+					"name" : "example_velocity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_walk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_walk-d8fbef88b22ddbf23ab4.json",
+					"name" : "example_walk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_wirelessHandle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_wirelessHandle-8143dc6915eb752a702c.json",
+					"name" : "example_wirelessHandle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lcm_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lcm_server-930f4b2ade9e3e42baa3.json",
+					"name" : "lcm_server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lcm_server_high::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lcm_server_high-1de780d660abad956c5a.json",
+					"name" : "lcm_server_high",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lcm_server_low::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lcm_server_low-73dfd86a3cd700656358.json",
+					"name" : "lcm_server_low",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robot_interface_high_level::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robot_interface_high_level-e1773694a96f5ecc1ee7.json",
+					"name" : "robot_interface_high_level",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "udp_recv_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-udp_recv_test-9c1a888ee51e5f12a20d.json",
+					"name" : "udp_recv_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "udp_send_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-udp_send_test-fa07f999a38d86260d54.json",
+					"name" : "udp_send_test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/a1/unitree_legged_sdk-3.3.2/build",
+		"source" : "/home/a1/unitree_legged_sdk-3.3.2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

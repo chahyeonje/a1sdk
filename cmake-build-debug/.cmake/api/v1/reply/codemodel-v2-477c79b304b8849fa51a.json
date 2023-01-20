@@ -1,0 +1,303 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.3"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "unitree_legged_sdk",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "example_collision_detection::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_collision_detection-Debug-b945107b0147ab7979f0.json",
+					"name" : "example_collision_detection",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_collision_detection_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_collision_detection_autogen-Debug-d5c47f32e9b159328cd3.json",
+					"name" : "example_collision_detection_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_dance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_dance-Debug-1fb5f773422655aecb58.json",
+					"name" : "example_dance",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_dance_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_dance_autogen-Debug-cd7b4629fe2ff8336f76.json",
+					"name" : "example_dance_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_getLowState::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_getLowState-Debug-76ffc24f57bd21bfa44b.json",
+					"name" : "example_getLowState",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_getLowState_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_getLowState_autogen-Debug-4c6be8bfd16ae678891a.json",
+					"name" : "example_getLowState_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_position::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_position-Debug-9ab6f19762b558df8a3c.json",
+					"name" : "example_position",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_position_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_position_autogen-Debug-484636b75ec29fa4f3e9.json",
+					"name" : "example_position_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_torque::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_torque-Debug-e75447abf96ed70ad489.json",
+					"name" : "example_torque",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_torque_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_torque_autogen-Debug-34ec76cd14d5571a15d4.json",
+					"name" : "example_torque_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_velocity::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_velocity-Debug-265b9b50b10675aa51bd.json",
+					"name" : "example_velocity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_velocity_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_velocity_autogen-Debug-a231248818d50d221bbb.json",
+					"name" : "example_velocity_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_walk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_walk-Debug-5d288ed19d7a2f2f5a43.json",
+					"name" : "example_walk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_walk_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_walk_autogen-Debug-c8662d36fd6c639b21d5.json",
+					"name" : "example_walk_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_wirelessHandle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_wirelessHandle-Debug-6d9f18efe2ff43eede75.json",
+					"name" : "example_wirelessHandle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_wirelessHandle_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_wirelessHandle_autogen-Debug-27a62e8dafb7832938de.json",
+					"name" : "example_wirelessHandle_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lcm_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lcm_server-Debug-3d6f91e4d049a97a00b2.json",
+					"name" : "lcm_server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lcm_server_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lcm_server_autogen-Debug-70f5a2a927a5a64a164d.json",
+					"name" : "lcm_server_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lcm_server_high::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lcm_server_high-Debug-71f40f0d2960e3a33a74.json",
+					"name" : "lcm_server_high",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lcm_server_high_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lcm_server_high_autogen-Debug-c14608caa1850a3ec7ec.json",
+					"name" : "lcm_server_high_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lcm_server_low::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lcm_server_low-Debug-e924f57d641fb01e4bce.json",
+					"name" : "lcm_server_low",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lcm_server_low_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lcm_server_low_autogen-Debug-46a4df60e5c050921ee0.json",
+					"name" : "lcm_server_low_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_rbdl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_rbdl-Debug-a198c9387b8674ebc97a.json",
+					"name" : "test_rbdl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_rbdl_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_rbdl_autogen-Debug-021d0147d7cfb366c60e.json",
+					"name" : "test_rbdl_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "udp_recv_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-udp_recv_test-Debug-270dd93491a71d776790.json",
+					"name" : "udp_recv_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "udp_recv_test_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-udp_recv_test_autogen-Debug-b583bf2a0ac9cd1e26d3.json",
+					"name" : "udp_recv_test_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "udp_send_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-udp_send_test-Debug-b9425494cce249f7274f.json",
+					"name" : "udp_send_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "udp_send_test_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-udp_send_test_autogen-Debug-b474c45c6f2e204024fd.json",
+					"name" : "udp_send_test_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/a1/unitree_legged_sdk-3.3.2/cmake-build-debug",
+		"source" : "/home/a1/unitree_legged_sdk-3.3.2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
